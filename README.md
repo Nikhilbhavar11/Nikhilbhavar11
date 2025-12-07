@@ -7,7 +7,7 @@
 
 ---
 
-##  About Me  
+## About Me  
 - 🎓 Diploma in Computer Engineering (Final Year)  
 - 💼 Co-Founder of **Weblution**  
 - 💻 Currently working on startup **AI powered Maintenance and Management System**  
@@ -16,12 +16,13 @@
 
 ---
 
-##  Skills  
+## Skills  
 **Programming:** Java, Python, JavaScript  
 **Backend:** FastAPI, REST APIs  
-**Database:** MySQL, Firebase Realtime DB
-**Web Development:** WordPress, Elementor, HTML, CSS   
-**Tools:** Git, GitHub, VS Code, IntelliJ, Arduino IDE
+**Database:** MySQL, Firebase Realtime DB  
+**Web Development:** WordPress, Elementor, HTML, CSS  
+**Tools:** Git, GitHub, VS Code, IntelliJ, Arduino IDE  
+
 ---
 
 ## 📫 Connect With Me  
