@@ -17,11 +17,11 @@
 ---
 
 ## Skills  
-**Programming:** Java, Python, JavaScript  
+**Programming:** Java, Python, JavaScript, C, C++, PHP, VB.NET.
 **Backend:** FastAPI, REST APIs  
-**Database:** MySQL, Firebase Realtime DB  
+**Database:** MySQL, Firebase Realtime DB, PostgreSQL  
 **Web Development:** WordPress, Elementor, HTML, CSS  
-**Tools:** Git, GitHub, VS Code, IntelliJ, Arduino IDE  
+**Tools:** Git, GitHub, VS Code, IntelliJ, Arduino IDE, Jupyter Notebook. 
 
 ---
 
