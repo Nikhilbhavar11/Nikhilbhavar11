@@ -17,7 +17,7 @@
 ---
 
 ## Skills  
-**Programming:** Java, Python, JavaScript, C, C++, PHP, VB.NET.
+**Programming:** Java, Python, JavaScript, C, C++, PHP, VB.NET
 **Backend:** FastAPI, REST APIs  
 **Database:** MySQL, Firebase Realtime DB, PostgreSQL  
 **Web Development:** WordPress, Elementor, HTML, CSS  
@@ -27,7 +27,7 @@
 
 ## 📫 Connect With Me  
 - Email: **nikhilbhavar1102@gmail.com**  
-- Linkedin: **https://www.linkedin.com/in/nikhil-bhavar-0aaa1329b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**  
+- Linkedin: **www.linkedin.com/in/nikhil-bhavar**  
 
 ---
 
