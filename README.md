@@ -17,7 +17,7 @@
 ---
 
 ## Skills  
-**Programming:** Java, Python, JavaScript, C, C++, PHP, VB.NET
+**Programming:** Java, Python, JavaScript, C, C++, PHP, VB.NET<br>
 **Backend:** FastAPI, REST APIs  
 **Database:** MySQL, Firebase Realtime DB, PostgreSQL  
 **Web Development:** WordPress, Elementor, HTML, CSS  
