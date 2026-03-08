@@ -9,7 +9,7 @@
 
 ## About Me  
 - 🎓 Diploma in Computer Engineering (Final Year)  
-- 💼 Co-Founder of **Weblution**  
+- 💼 Co-Founder of **Weblution Infotech LLP**  
 - 💻 Currently working on startup **AI powered Maintenance and Management System**  
 - 🤖 Interested in AI, Automation, ML and Real-World Systems  
 - 📍 Pune, India  
