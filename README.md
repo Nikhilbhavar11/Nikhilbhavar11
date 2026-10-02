@@ -1,33 +1,36 @@
 <h1 align="center">Hi, I'm Nikhil 👋</h1>
 
 <p align="center">
-  <b>Computer Engineering Student | Web Developer | AI & IoT Enthusiast</b><br>
-  Building real-world projects and improving every day.
+  <b>B.E. Information Technology Student | Software Developer | AI/ML Enthusiast</b><br>
+  Building real-world projects and continuously learning.
 </p>
 
 ---
 
-## About Me  
-- 🎓 Diploma in Computer Engineering (Final Year)  
-- 💼 Co-Founder of **Weblution Infotech LLP**  
-- 💻 Currently working on startup **AI powered Maintenance and Management System**  
-- 🤖 Interested in AI, Automation, ML and Real-World Systems  
-- 📍 Pune, India  
+## About Me
+
+* 🎓 B.E. in Information Technology at **Sinhgad College of Engineering, Pune**
+* 💻 Experienced in **AI/ML, Backend Development and Software Development**
+* 🤖 Interested in **AI, Machine Learning, Deep Learning and LLM Models**
+* 📍 Pune, India
 
 ---
 
-## Skills  
+## Skills
+
 **Programming:** Java, Python, JavaScript, C, C++, PHP, VB.NET<br>
-**Backend:** FastAPI, REST APIs  
-**Database:** MySQL, Firebase Realtime DB, PostgreSQL  
-**Web Development:** WordPress, Elementor, HTML, CSS  
-**Tools:** Git, GitHub, VS Code, IntelliJ, Arduino IDE, Jupyter Notebook. 
+**Backend:** FastAPI, REST APIs<br>
+**Database:** MySQL, Firebase Realtime DB, PostgreSQL<br>
+**Web Development:** WordPress, Elementor, HTML, CSS<br>
+**Tools:** Git, GitHub, VS Code, IntelliJ, Arduino IDE, Jupyter Notebook
 
 ---
 
-## 📫 Connect With Me  
-- Email: **nikhilbhavar1102@gmail.com**  
-- Linkedin: **www.linkedin.com/in/nikhil-bhavar**  
+## 📫 Connect With Me
+
+* Email: **[nikhilbhavar1102@gmail.com](mailto:nikhilbhavar1102@gmail.com)**
+* LinkedIn: **[www.linkedin.com/in/nikhil-bhavar](http://www.linkedin.com/in/nikhil-bhavar)**
+* Portfolio: **[portfolioofnikhil.netlify.app](portfolioofnikhil.netlify.app)**
 
 ---
 
