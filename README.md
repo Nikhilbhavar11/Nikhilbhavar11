@@ -30,7 +30,6 @@
 
 * Email: **[nikhilbhavar1102@gmail.com](mailto:nikhilbhavar1102@gmail.com)**
 * LinkedIn: **[www.linkedin.com/in/nikhil-bhavar](http://www.linkedin.com/in/nikhil-bhavar)**
-* Portfolio: **[portfolioofnikhil.netlify.app](portfolioofnikhil.netlify.app)**
 
 ---
 
